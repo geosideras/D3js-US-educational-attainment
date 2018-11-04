@@ -91,7 +91,7 @@ label{
 
 .radio-toolbar label {
 
-  display: inline-flex;
+  display: flex;
   background-color: #66ffcc;
   padding: 4px 11px;
   font-family: "Muli";

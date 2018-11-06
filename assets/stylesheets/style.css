@@ -81,6 +81,7 @@ nav ul li a {
 		}
 		#nav.js {
 			display: none;
+			
  		}
 		nav ul {
 			width:100%;
@@ -93,12 +94,14 @@ nav ul li a {
 			width:100%;
 			text-align: center;
 			color:#070a0f;
+			
  		}
 		
 	}
  	@media screen and (min-width: 768px) {
 		#menu {
 			display: none;
+			
 		}
 	}
 body {
